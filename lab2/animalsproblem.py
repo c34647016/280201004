@@ -1,4 +1,5 @@
-animals = int(10)
-chickens = int(6)
-roosters = int(animals - chickens)
+animals = 10
+chickens = 6
+roosters = animals - chickens
+
 print(roosters)
