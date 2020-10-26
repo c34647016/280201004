@@ -1,5 +1,5 @@
-number=input("Please enter a number:")
-if eval(number) <= 0 :
-  print((-1)*eval(number))
+number=eval(input("Please enter a number:"))
+if number <= 0 :
+  print((-1)*number)
 else :
     print(number)
